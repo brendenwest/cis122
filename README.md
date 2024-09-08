@@ -27,6 +27,7 @@ Students will also need the following:
 * A computer with Python 3.11 or later installed 
 * A modern, syntax-highlighting text editor  
 * A user account at https://replit.com/
+* An account at https://www.codestepbystep.com/ (using your Pierce College email)
 
 ### Class Structure and Topics
 
@@ -54,7 +55,7 @@ Quizzes will be administered via Canvas and must be completed during the specifi
 
 ### Resources
 
-* http://greenteapress.com/wp/think-python-2e/ 
+* https://allendowney.github.io/ThinkPython/
 * http://www.tutorialspoint.com/python/ 
 * https://www.w3schools.com/python/ 
 * https://developers.google.com/edu/python
