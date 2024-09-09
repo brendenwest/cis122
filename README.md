@@ -20,10 +20,11 @@ This class introduces basic concepts of computer programming with practical exer
 
 #### Required Materials
 
-Readings will draw from http://www.tutorialspoint.com/python/ and http://greenteapress.com/wp/think-python-2e/. A hardcopy of Think Python is optional, but an excellent reference with exercises and chapter summaries.
+There is no required textbook for this course. Readings will draw from several freely available resources such as https://allendowney.github.io/ThinkPython/
+
+Students who prefer a reference book can optionally purchase [Murach’s Python Programming (2nd Edition)](https://www.murach.com/shop/murach-s-python-programming-2nd-edition-detail)
 
 Students will also need the following:
-
 * A computer with Python 3.11 or later installed 
 * A modern, syntax-highlighting text editor  
 * A user account at https://replit.com/
@@ -47,7 +48,9 @@ Each week, we'll cover a different topic, building on the previous week's work. 
 
 Grades will be based on weekly assignments (85%) & 3 quizzes (15%).
 
-Weekly assignments will be posted on Canvas each Monday and are designed to exercise the skills and concepts covered that week. Assignments are due by the end of the week, and late assignments may be automatically marked down by 10%.   
+Weekly assignments will be posted on Canvas each Monday and are designed to exercise the skills and concepts covered that week. Assignments are due by the end of the week. 
+
+Late work submitted within 2 weeks of the due date is subject to a 10% grade penalty. Work submitted more than 2 weeks after the due date will not be accepted or graded
 
 You may discuss how to approach a problem with other students in the class, but your submission must be your own work. Code submissions that are substantially identical would be considered cheating and subject to a markdown penalty.
 
